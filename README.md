@@ -1,4 +1,4 @@
- <h1 align="center">CRUD Api com Node, TS e Typeorm</h1>
+ <h1 align="center">CRUD API com Node, TS e Typeorm</h1>
    <p align="center">
     	<img src="https://i.imgur.com/FqzjhL1.png" alt="Logo" height="300">
   </p>
