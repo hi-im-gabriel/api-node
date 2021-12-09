@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+
+    "target": "es6",
+
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+
+    /* Modules */
+    "module": "commonjs",
+
+    "typeRoots": [
+      "./src/utils/@types",
+      "./node_modules/@types",
+    ],
+
+    "esModuleInterop": true,
+
+    "forceConsistentCasingInFileNames": true,
+
+    /* Type Checking */
+    "strict": false,
+    "noImplicitAny": true,
+    "strictPropertyInitialization": false,
+    "noImplicitThis": true,
+
+    "skipLibCheck": true
+  }
+}
