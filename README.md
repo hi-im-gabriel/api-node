@@ -7,7 +7,7 @@
 
 ## 1 - Instalar as dependências
 
-`npm i express sqlite3 typeorm uuid reflect-metada`
+`npm install`
 
 ## 2 - Migrar o banco de dados
 
